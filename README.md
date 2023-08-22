@@ -1,4 +1,4 @@
-# nightscout-connect
+# nightscout-connect -- nahu
 
 Nightscout's methods for synchronizing with common diabetes cloud providers.
 This module provides a single entry point to Nightscout for similar modules
